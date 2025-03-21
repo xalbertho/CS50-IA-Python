@@ -2,3 +2,14 @@
     today was a bad day i don't understand 
     maybe  i need to die for bakc better
     thsts a bad idea but is necesary for me...
+
+
+
+
+    
+
+
+
+
+    
+    
