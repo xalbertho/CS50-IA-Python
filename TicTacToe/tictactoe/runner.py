@@ -22,7 +22,8 @@ board = ttt.initial_state()
 ai_turn = False
 
 while True:
-
+    
+    #funcion para salir del juego
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             sys.exit()
