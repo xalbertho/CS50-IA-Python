@@ -92,6 +92,8 @@ while True:
                 row.append(rect)
             tiles.append(row)
 
+
+
         game_over = ttt.terminal(board)
         player = ttt.player(board)
 
