@@ -73,6 +73,7 @@ while True:
         tile_origin = (width / 2 - (1.5 * tile_size),
                        height / 2 - (1.5 * tile_size))
         tiles = []
+        
         for i in range(3):
             row = []
             for j in range(3):
