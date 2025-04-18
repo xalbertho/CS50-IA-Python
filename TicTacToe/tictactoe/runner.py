@@ -30,6 +30,7 @@ while True:
 
     screen.fill(black)
 
+    
     # Let user choose a player.
     if user is None:
 
@@ -54,7 +55,7 @@ while True:
         pygame.draw.rect(screen, white, playOButton)
         screen.blit(playO, playORect)
 
-        # Check if button is clicked
+        # Check if button is clicked, verificando si las cordenadas coiciden con el clic
         click, _, _ = pygame.mouse.get_pressed()
         if click == 1:
             mouse = pygame.mouse.get_pos()
